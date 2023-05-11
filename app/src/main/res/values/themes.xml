@@ -23,4 +23,14 @@
         <item name="windowActionBar">false</item>
         <item name="windowNoTitle">true</item>
     </style>
+
+    <style name="bottom_nav_bar_theme">
+        <item name="android:background">#F5F5F5</item>
+    </style>
+
+    <style name="TabsLayoutTextStyle">
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
 </resources>
