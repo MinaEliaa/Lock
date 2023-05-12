@@ -3,18 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/drawable/gradient.xml" value="0.1175" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/drawable/icon_decrypt.xml" value="0.1655" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/drawable/icon_encrypt.xml" value="0.1655" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/drawable/icon_home.xml" value="0.1655" />
+        <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/drawable/type_tweet_rounder_bourder.xml" value="0.1655" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/layout/activity_main.xml" value="0.264" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/layout/fragment_caeser_decrypt.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/layout/fragment_caeser_encrpyt.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/layout/fragment_caeser_encrpyt.xml" value="0.4" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/layout/fragment_decrypt.xml" value="0.20520833333333333" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/layout/fragment_encrypt.xml" value="0.215625" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/layout/fragment_home.xml" value="0.1" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/layout/fragment_login.xml" value="0.2015625" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/layout/fragment_play_fair_decrypt.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/layout/fragment_play_fair_encrypt.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/layout/fragment_vingenere_decrypt.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/layout/fragment_vingenere_encrpyt.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/Mena/AndroidStudioProjects/Lock/app/src/main/res/menu/home_nav_menu.xml" value="0.253125" />
       </map>
     </option>
